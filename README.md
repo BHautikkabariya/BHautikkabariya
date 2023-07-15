@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bhautikkabariya
-- 🌱 I’m currently working on Flutter Developement
+- 🌱 I’m currently working on Flutter Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  bhautikkabariya@gmail.com
 
